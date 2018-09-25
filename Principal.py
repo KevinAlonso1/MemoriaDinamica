@@ -23,3 +23,5 @@ lista2 = MemoriaDinamica(precios)
 lista2.imprimirLista()
 lista2.agregarelementoarray(15)
 lista2.imprimirLista()
+
+
